@@ -1,3 +1,4 @@
 # practics_demo
 This is my first git repository.<br>
-Author - Nihal amin
+Author - Nihal amin a
+
